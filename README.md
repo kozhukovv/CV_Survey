@@ -9,18 +9,11 @@
   - [Road surface condition (детекция состояния дорожного покрытия)](#road-surface-condition-детекция-состояния-дорожного-покрытия)
   - [Parking detection (детекция парковок)](#parking-detection-детекция-парковок)
 
-## Road damage detection (детекция дорожных дефектов)
+## [Road damage detection (детекция дорожных дефектов)](https://github.com/kozhukovv/CV_Survey/blob/main/road-damage-detection.md)
 
-[Ссылка на лист с обзором статей](https://github.com/kozhukovv/CV_Survey/blob/main/road-damage-detection.md)
+## [Litter detection (детекция мусора)](https://github.com/kozhukovv/CV_Survey/blob/main/litter-detection.md)
 
-## Litter detection (детекция мусора)
+## [Road surface condition (детекция состояния дорожного покрытия)](https://github.com/kozhukovv/CV_Survey/blob/main/road-surface-condition.md)
 
-[Ссылка на лист с обзором статей](https://github.com/kozhukovv/CV_Survey/blob/main/litter-detection.md)
+## [Parking detection (детекция парковок)](https://github.com/kozhukovv/CV_Survey/blob/main/parking-detection.md)
 
-## Road surface condition (детекция состояния дорожного покрытия)
-
-[Ссылка на лист с обзором статей](https://github.com/kozhukovv/CV_Survey/blob/main/road-surface-condition.md)
-
-## Parking detection (детекция парковок)
-
-[Ссылка на лист с обзором статей](https://github.com/kozhukovv/CV_Survey/blob/main/parking-detection.md)
